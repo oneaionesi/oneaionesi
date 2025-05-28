@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @geeAGI
-- 👀 I’m interested in no code solutions
-- 🌱 I understand coding theoretically and can identify general function of certain aspects of code
-- 💞️ I’m looking to collaborate with an open mind
-- 📫 My contact is the email used for signing up
-- 😄 Pronouns: Him
+- 👋 Hi, we are @1ai1si
+- 👀 We are an Ai-centric project development network
+- 🌱 We are primarily vibe coders and are exploring the technology to its limits
+- 💞️ We are looking to collaborate with an open mind
+- 📫 Our contact is the email used for signing up
+- 😄 Pronouns: 
 - ⚡ Fun fact: AGI is here and I don't want to be left behind.
 
 <!---
-geeAGI/geeAGI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+oneaionesi/oneaionesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
